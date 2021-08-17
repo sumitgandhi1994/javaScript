@@ -1,3 +1,5 @@
 /ignore.log
 ignore.log
 *.log
+log/
+*.smt
